@@ -1,5 +1,64 @@
-Fintech and banking sectors face significant challenges with customer churn and high risks associated with loan approvals. 
+📊 Olawale Odofin Data Analytics Portfolio
 
-This project was initiated to address these issues by leveraging data-driven insights to optimize loan approval processes and minimize risks. 
+Showcasing my projects in Data Analytics, Business Intelligence, Research and Statistical Analysis, and Predictive Modeling
 
-By analyzing customer profiles, the project aimed to ensure loans are offered only to eligible customers and tailored to their financial capacity, social behavior, and demographic characteristics.
+👋 About Me
+
+My name is Olawale Odofin. I am a dedicated and result-oriented data analyst with over 3 years of experience leveraging data to drive business growth, reduce costs, maximize profits, and mitigate risks. 
+
+My expertise lies in collecting, analyzing, and transforming raw data into actionable insights that empower decision-making and strategy development.
+
+Passionate about solving real-world problems, I thrive on helping businesses and individuals unlock the power of data. 
+
+I am also committed to inspiring the next generation of data analysts through practical, and hands-on learning experiences.
+
+My work spans across financial analytics, healthcare analytics, business intelligence, and energy analytics 
+
+🔹 Skills
+
+✅ ETL
+
+✅ Predictive Analysis and Modeling 
+
+✅ Research and Statistical Analysis 
+
+✅ Dashboard Design 
+
+🛠️ Tools
+
+✅ Excel
+
+✅ Power BI
+
+✅ SQL
+ 
+✅ SPSS
+
+
+📂 Featured Projects
+
+1️⃣ Loan Recommendation Dashboard 
+
+Goal: Tailor suitable loan class to customers based on his profiles.
+
+Tools: Excel, DAX, Power BI, and Power Query 
+🔗 View Repository:
+
+2️⃣ Loan Qualification Model
+
+Goal: Minimize loan risk by predicting maximum loan amount based on customers financial profile.
+
+Tools: Excel, DAX, Power BI, and Power Query 
+
+🔗 View Repository:
+
+3️⃣ LNG Plant Efficiency and Utilization Rate Analysis
+
+Goal: Optimize Efficiency and Utilization of Nigeria LNG Plants Resources.
+
+Tools: Power BI, DAX, Excel, and Power Query
+🔗 View Repository:
+
+📬 Contact Me
+💼 LinkedIn: https://www.linkedin.com/in/olawaleodofin?
+📧 Email: olawaleodofin51@email.com
