@@ -47,7 +47,7 @@ Tools: Excel, DAX, Power BI, and Power Query
 
 🔗Download Power BI file: https://github.com/Soludominsights1/My-Data_Analytics_Projects.git
 
-🔗Read Presentation
+🔗Read Presentation: https://github.com/Soludominsights1/My-Data_Analytics_Projects.git
 
 2️⃣ Loan Qualification Model
 
