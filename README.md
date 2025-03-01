@@ -42,7 +42,7 @@ My work spans across financial analytics, healthcare analytics, business intelli
 Goal: Tailor suitable loan class to customers based on his profiles.
 
 Tools: Excel, DAX, Power BI, and Power Query 
-🔗 View Repository:
+🔗 View Repository:https://github.com/Soludominsights1/My-Data_Analytics_Projects.git
 
 2️⃣ Loan Qualification Model
 
