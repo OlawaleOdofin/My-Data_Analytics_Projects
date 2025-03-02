@@ -55,7 +55,7 @@ Goal: Minimize loan risk by predicting maximum loan amount based on customers fi
 
 Tools: Excel, DAX, Power BI, and Power Query 
 
-🔗 Watch Video: https://youtu.be/T9kSbrspi54?si=CQhrS7JbLDjp3wbL
+🔗 Watch Video: https://youtu.be/vHMhLEOm8WY?si=hoi7j46vkfE_Cojc
 
 3️⃣ LNG Plant Efficiency and Utilization Rate Analysis
 
