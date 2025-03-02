@@ -62,7 +62,7 @@ Tools: Excel, DAX, Power BI, and Power Query
 Goal: Optimize Efficiency and Utilization of Nigeria LNG Plants Resources.
 
 Tools: Power BI, DAX, Excel, and Power Query
-🔗 View Repository:
+🔗 Watch Video: https://youtu.be/ATpvCzeNBMo?si=IBHKEPLPqOEcKBPA
 
 📬 Contact Me
 💼 LinkedIn: https://www.linkedin.com/in/olawaleodofin?
